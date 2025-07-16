@@ -12,7 +12,7 @@ import { items } from "@/data/items";
 import { GridItem } from "@/components/GridItem";
 import { formatTimeElapsed } from "@/helpers/formatTimeElapsed";
 
-export const Page = () => {
+export default function Page() {
   const [playing, setPlaying] = useState<boolean>(false);
   const [timeElapsed, setTimeElapsed] = useState<number>(0);
   const [moveCount, setMoveCount] = useState<number>(0);
@@ -178,6 +178,4 @@ export const Page = () => {
       </div>
     </div>
   );
-};
-
-export default Page;
+}
