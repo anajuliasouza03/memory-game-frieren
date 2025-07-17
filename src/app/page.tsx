@@ -148,7 +148,7 @@ export default function Page() {
         <div className="text-[20px] font-bold mb-3">Frieren </div>
 
         <div className="flex justify-center items-center mb-3">
-          <a href="#" className="border p-2 rounded-md">
+          <a href="https://github.com/anajuliasouza03/memory-game-frieren.git" className="border p-2 rounded-md">
             <Github width={15} height={15} />
           </a>
         </div>
