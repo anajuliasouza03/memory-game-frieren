@@ -1,4 +1,5 @@
-Vercel: https://memory-game-frieren-432sozh3n-anajuliasouza03s-projects.vercel.app/
+Vercel: https://memory-game-frieren.vercel.app/
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
